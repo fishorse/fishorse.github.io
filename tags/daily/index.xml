@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily on Fish &amp; Horse</title>
+    <link>https://fishorse.com/tags/daily/</link>
+    <description>Recent content in Daily on Fish &amp; Horse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2019 04:17:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://fishorse.com/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20190419</title>
+      <link>https://fishorse.com/post/20190419/</link>
+      <pubDate>Fri, 19 Apr 2019 04:17:19 +0800</pubDate>
+      
+      <guid>https://fishorse.com/post/20190419/</guid>
+      <description>搞到凌晨博客终于有点雏形，困死了。 猫和男票都已经睡了，我趁着酒意还在头上，一股脑把手头的事情都做了。再有十个小时就飞了，短暂地度个假，放松一</description>
+    </item>
+    
+  </channel>
+</rss>
