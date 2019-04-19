@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fish &amp; Horse</title>
-    <link>https://fishorse.com/tags/</link>
+    <link>https://fishorse.github.io/tags/</link>
     <description>Recent content in Tags on Fish &amp; Horse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 04:17:19 +0800</lastBuildDate>
     
-	<atom:link href="https://fishorse.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fishorse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Daily</title>
-      <link>https://fishorse.com/tags/daily/</link>
+      <link>https://fishorse.github.io/tags/daily/</link>
       <pubDate>Fri, 19 Apr 2019 04:17:19 +0800</pubDate>
       
-      <guid>https://fishorse.com/tags/daily/</guid>
+      <guid>https://fishorse.github.io/tags/daily/</guid>
       <description></description>
     </item>
     
