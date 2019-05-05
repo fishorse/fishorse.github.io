@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Fish &amp; Horse</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Fish &amp; Horse</description>
+    <title>日常 on Fish &amp; Horse</title>
+    <link>/tags/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on Fish &amp; Horse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 16:24:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 21:25:10 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>读书笔记：《这样写出好故事》</title>
-      <link>/post/writingnotes/</link>
-      <pubDate>Sun, 05 May 2019 16:24:38 +0800</pubDate>
-      
-      <guid>/post/writingnotes/</guid>
-      <description>在网易蜗牛读书上看完了詹姆斯·斯科特·贝尔的《这样写出好故事》，发现自己竟然2017年已经马克了想读，两年后才真的读。今年还是把豆瓣上马克过</description>
-    </item>
     
     <item>
       <title>Why Blog</title>
