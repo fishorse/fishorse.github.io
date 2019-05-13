@@ -3,8 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/daily/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-05-05T16:24:38+08:00</lastmod>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/mymom/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15,19 +44,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-05-05T16:24:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/reading/</loc>
-    <lastmod>2019-05-05T16:24:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-05-05T16:24:38+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -50,20 +67,8 @@
   </url>
   
   <url>
-    <loc>/tags/daily/</loc>
-    <lastmod>2019-04-28T21:25:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/whyblog/</loc>
     <lastmod>2019-04-28T21:25:10+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2019-04-28T21:25:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
