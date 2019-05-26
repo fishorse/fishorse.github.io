@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/daily/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/20190527/</loc>
+    <lastmod>2019-05-27T00:22:25+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ballet/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
     <priority>0</priority>
@@ -15,25 +50,7 @@
   </url>
   
   <url>
-    <loc>/tags/daily/</loc>
-    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/dance/</loc>
-    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -41,18 +58,6 @@
   <url>
     <loc>/ballet/ballet01/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
