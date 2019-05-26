@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dance on Fish &amp; Horse</title>
-    <link>/tags/dance/</link>
-    <description>Recent content in Dance on Fish &amp; Horse</description>
+    <title>Ballets on Fish &amp; Horse</title>
+    <link>/ballet/</link>
+    <description>Recent content in Ballets on Fish &amp; Horse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2019 16:46:42 +0800</lastBuildDate>
     
-	<atom:link href="/tags/dance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ballet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

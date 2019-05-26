@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>/ballet/</loc>
+    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/daily/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
     <priority>0</priority>
@@ -27,25 +33,25 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-05-19T16:46:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/ballet01/</loc>
+    <loc>/ballet/ballet01/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2019-05-19T16:46:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-13T22:05:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,13 +73,19 @@
   </url>
   
   <url>
+    <loc>/reading/</loc>
+    <lastmod>2019-05-05T16:24:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2019-05-05T16:24:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/writingnotes/</loc>
+    <loc>/reading/writingnotes/</loc>
     <lastmod>2019-05-05T16:24:38+08:00</lastmod>
   </url>
   
