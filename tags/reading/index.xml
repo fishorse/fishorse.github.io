@@ -6,10 +6,19 @@
     <description>Recent content in Reading on Fish &amp; Horse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 16:24:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 16:24:38 +0800</lastBuildDate>
     
 	<atom:link href="/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>读书记录（不定期更新）</title>
+      <link>/reading/bookrecords/</link>
+      <pubDate>Thu, 04 Jul 2019 16:24:38 +0800</pubDate>
+      
+      <guid>/reading/bookrecords/</guid>
+      <description>前言 在豆瓣上马克了读过的书，结果今天发现有一条记录被删了，暂时还没有找出来是哪一条。男朋友建议把记录也搬一份到博客上来，欣然接受。主要还是在</description>
+    </item>
     
     <item>
       <title>读书笔记01 | 《这样写出好故事》</title>
